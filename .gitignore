@@ -1,0 +1,26 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+# Generated Python / frontend files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+*.tsbuildinfo
+# Local data and evidence
+*.db
+*.db-*
+*.sqlite*
+/violations/
+reports/
+*.mp4
+*.avi
+*.mov
+*.log
+*.err
+.qdrant/
+.DS_Store
+Thumbs.db

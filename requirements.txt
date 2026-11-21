@@ -1,0 +1,8 @@
+-r smart_traffic_ai_agent/requirements-agent.txt
+opencv-python
+numpy
+ultralytics
+torch
+torchvision
+easyocr
+lap

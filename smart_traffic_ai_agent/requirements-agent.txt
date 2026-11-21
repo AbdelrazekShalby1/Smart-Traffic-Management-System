@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-groq
+langchain-qdrant
+langchain-huggingface
+sentence-transformers
+qdrant-client
+python-dotenv
+pydantic
+streamlit
+pandas
